@@ -12,7 +12,7 @@
         }
         public static double Secanus(double x)
         {
-            return 1/ Cos.Cosinus(x);
+            return 1 / Cos.Cosinus(x);
         }
     }
 }
